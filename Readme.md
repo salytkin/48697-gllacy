@@ -1,7 +1,7 @@
 # Личный проект «Глейси»
 
 * Студент: [Сергей Лыткин](https://up.htmlacademy.ru/htmlcss/21/user/48697).
-* Наставник: [Александр Кошара] (https://up.htmlacademy.ru/htmlcss/user/169035)
+* Наставник: [Александр Кошара](https://up.htmlacademy.ru/htmlcss/user/169035)
 
 ---
 
